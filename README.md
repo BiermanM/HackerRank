@@ -18,3 +18,4 @@
 * [Grading Students](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Grading%20Students.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Grading%20Students.cpp)
 * [Apple and Orange](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Apple%20and%20Orange.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Apple%20and%20Orange.cpp)
 * [Kangaroo](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Kangaroo.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Kangaroo.cpp)
+* [Between Two Sets](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Between%20Two%20Sets.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Between%20Two%20Sets.cpp)
