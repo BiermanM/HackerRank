@@ -26,3 +26,4 @@
 | Kangaroo | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Kangaroo.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Kangaroo.cpp) |
 | Between Two Sets | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Between%20Two%20Sets.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Between%20Two%20Sets.cpp) |
 | Breaking the Records | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Breaking%20the%20Records.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Breaking%20the%20Records.cpp) |
+| Birthday Chocolate | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Birthday%20Chocolate.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Birthday%20Chocolate.cpp) |
