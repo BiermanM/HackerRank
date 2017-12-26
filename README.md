@@ -19,3 +19,4 @@
 * [Apple and Orange](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Apple%20and%20Orange.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Apple%20and%20Orange.cpp)
 * [Kangaroo](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Kangaroo.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Kangaroo.cpp)
 * [Between Two Sets](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Between%20Two%20Sets.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Between%20Two%20Sets.cpp)
+* [Breaking the Records](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Breaking%20the%20Records.pdf): [C++ Solution](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Breaking%20the%20Records.cpp)
