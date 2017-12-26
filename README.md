@@ -28,3 +28,4 @@
 | Breaking the Records | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Breaking%20the%20Records.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Breaking%20the%20Records.cpp) |
 | Birthday Chocolate | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Birthday%20Chocolate.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Birthday%20Chocolate.cpp) |
 | Divisible Sum Pairs | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Divisible%20Sum%20Pairs.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Divisible%20Sum%20Pairs.cpp) |
+| Migratory Birds | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Migratory%20Birds.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Implementation/Migratory%20Birds.cpp) |
