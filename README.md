@@ -38,3 +38,11 @@
 |:------------:|:------:|:--------:|
 | Super Reduced String | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/reduced-string/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Strings/Super%20Reduced%20String.cpp) |
 | CamelCase | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/camelcase/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Strings/CamelCase.cpp) |
+| Two Characters | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/two-characters/download_pdf?language=English) | [C++]() |
+| Caesar Cipher | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/caesar-cipher-1/download_pdf?language=English) | [C++]() |
+| Mars Exploration | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/mars-exploration/download_pdf?language=English) | [C++]() |
+| HackerRank in a String! | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/hackerrank-in-a-string/download_pdf?language=English) | [C++]() |
+| Pangrams | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/pangrams/download_pdf?language=English) | [C++]() |
+| Weighted Uniform Strings | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/weighted-uniform-string/download_pdf?language=English) | [C++]() |
+| Separate the Numbers | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/separate-the-numbers/download_pdf?language=English) | [C++]() |
+| Funny String | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/funny-string/download_pdf?language=English) | [C++]() |
