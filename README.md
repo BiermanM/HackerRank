@@ -6,16 +6,16 @@
 
 | Problem Name | Readme | Solution |
 |:------------:|:------:|:--------:|
-| Solve Me First | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Solve%20Me%20First.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Solve%20Me%20First.cpp) |
-| Simple Array Sum | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Simple%20Array%20Sum.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Simple%20Array%20Sum.cpp) |
-| Compare the Triplets | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Compare%20the%20Triplets.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Compare%20the%20Triplets.cpp) |
-| A Very Big Sum | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/A%20Very%20Big%20Sum.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/A%20Very%20Big%20Sum.cpp) |
-| Diagonal Difference | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Diagonal%20Difference.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Diagonal%20Difference.cpp) |
-| Plus Minus | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Plus%20Minus.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Plus%20Minus.cpp) |
-| Staircase | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Staircase.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Staircase.cpp) |
-| Mini-Max Sum | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Mini-Max%20Sum.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Mini-Max%20Sum.cpp) |
-| Birthday Cake Candles | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Birthday%20Cake%20Candles.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Birthday%20Cake%20Candles.cpp) |
-| Time Conversion | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Time%20Conversion.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Time%20Conversion.cpp) |
+| Solve Me First | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/solve-me-first/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Solve%20Me%20First.cpp) |
+| Simple Array Sum | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/simple-array-sum/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Simple%20Array%20Sum.cpp) |
+| Compare the Triplets | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/compare-the-triplets/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Compare%20the%20Triplets.cpp) |
+| A Very Big Sum | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/a-very-big-sum/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/A%20Very%20Big%20Sum.cpp) |
+| Diagonal Difference | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/diagonal-difference/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Diagonal%20Difference.cpp) |
+| Plus Minus | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/plus-minus/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Plus%20Minus.cpp) |
+| Staircase | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/staircase/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Staircase.cpp) |
+| Mini-Max Sum | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/mini-max-sum/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Mini-Max%20Sum.cpp) |
+| Birthday Cake Candles | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/birthday-cake-candles/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Birthday%20Cake%20Candles.cpp) |
+| Time Conversion | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/time-conversion/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Warmup/Time%20Conversion.cpp) |
 
 ### Implementation
 
