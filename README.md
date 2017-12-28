@@ -45,4 +45,4 @@
 | Pangrams | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/pangrams/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Pangrams.cpp) |
 | Weighted Uniform Strings | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/weighted-uniform-string/download_pdf?language=English) | [C++]() |
 | Separate the Numbers | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/separate-the-numbers/download_pdf?language=English) | [C++]() |
-| Funny String | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/funny-string/download_pdf?language=English) | [C++]() |
+| Funny String | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/funny-string/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Funny%20String.cpp) |
