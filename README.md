@@ -41,7 +41,7 @@
 | Two Characters | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/two-characters/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Two%20Characters.cpp) |
 | Caesar Cipher | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/caesar-cipher-1/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Caesar%20Cipher.cpp) |
 | Mars Exploration | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/mars-exploration/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration.cpp) |
-| HackerRank in a String! | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/hackerrank-in-a-string/download_pdf?language=English) | [C++]() |
+| HackerRank in a String! | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/hackerrank-in-a-string/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a%20String!.cpp) |
 | Pangrams | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/pangrams/download_pdf?language=English) | [C++]() |
 | Weighted Uniform Strings | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/weighted-uniform-string/download_pdf?language=English) | [C++]() |
 | Separate the Numbers | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/separate-the-numbers/download_pdf?language=English) | [C++]() |
