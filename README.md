@@ -36,5 +36,5 @@
 
 | Problem Name | Readme | Solution |
 |:------------:|:------:|:--------:|
-| Super Reduced String | [Readme](https://github.com/BiermanM/HackerRank/blob/master/Strings/Super%20Reduced%20String.pdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Strings/Super%20Reduced%20String.cpp) |
+| Super Reduced String | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/reduced-string/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Strings/Super%20Reduced%20String.cpp) |
 | CamelCase | [Readme](https://hackerrank-challenge-pdfs.s3.amazonaws.com/22578-camelcase-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA&Expires=1514439183&Signature=jbDikKFzX5Cpj06umZG7bvz33oY%3D&response-content-disposition=inline%3B%20filename%3Dcamelcase-English.pdf&response-content-type=application%2Fpdf) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Strings/CamelCase.cpp) |
