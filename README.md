@@ -43,6 +43,6 @@
 | Mars Exploration | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/mars-exploration/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Mars%20Exploration.cpp) |
 | HackerRank in a String! | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/hackerrank-in-a-string/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/HackerRank%20in%20a%20String!.cpp) |
 | Pangrams | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/pangrams/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Pangrams.cpp) |
-| Weighted Uniform Strings | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/weighted-uniform-string/download_pdf?language=English) | [C++]() |
+| Weighted Uniform Strings | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/weighted-uniform-string/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Weighted%20Uniform%20Strings.cpp) |
 | Separate the Numbers | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/separate-the-numbers/download_pdf?language=English) | [C++]() |
 | Funny String | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/funny-string/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/Algorithms/Strings/Funny%20String.cpp) |
