@@ -53,7 +53,7 @@
 | Problem Name | Readme | Solution |
 |:------------:|:------:|:--------:|
 | Day 0: Hello, World. | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-hello-world/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.java) |
-| Day 1: Data Types | *Readme* | *C++* |
+| Day 1: Data Types | (Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-data-types/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.java) |
 | Day 2: Operators | *Readme* | *C++* |
 | Day 3: Intro to Conditional Statements | *Readme* | *C++* |
 | Day 4: Class vs. Instance | *Readme* | *C++* |
