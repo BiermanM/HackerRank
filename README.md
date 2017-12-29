@@ -50,35 +50,35 @@
 ## Tutorials
 
 ### 30 Days of Code
-| Problem Name | Readme | Solution |
-|:------------:|:------:|:--------:|
-| Day 0: Hello, World. | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-hello-world/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.java) |
-| Day 1: Data Types | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-data-types/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.java) |
-| Day 2: Operators | *Readme* | *C++* |
-| Day 3: Intro to Conditional Statements | *Readme* | *C++* |
-| Day 4: Class vs. Instance | *Readme* | *C++* |
-| Day 5: Loops | *Readme* | *C++* |
-| Day 6: Let's Review | *Readme* | *C++* |
-| Day 7: Arrays | *Readme* | *C++* |
-| Day 8: Dictionaries and Maps | *Readme* | *C++* |
-| Day 9: Recursion | *Readme* | *C++* |
-| Day 10: Binary Numbers | *Readme* | *C++* |
-| Day 11: 2D Arrays | *Readme* | *C++* |
-| Day 12: Inheritance | *Readme* | *C++* |
-| Day 13: Abstract Classes | *Readme* | *C++* |
-| Day 14: Scope | *Readme* | *C++* |
-| Day 15: Linked List | *Readme* | *C++* |
-| Day 16: Exceptions - String to Integer | *Readme* | *C++* |
-| Day 17: More Exceptions | *Readme* | *C++* |
-| Day 18: Queues and Stacks | *Readme* | *C++* |
-| Day 19: Interfaces | *Readme* | *C++* |
-| Day 20: Sorting | *Readme* | *C++* |
-| Day 21: Generics | *Readme* | *C++* |
-| Day 22: Binary Search Trees | *Readme* | *C++* |
-| Day 23: BST Level-Order Traversal | *Readme* | *C++* |
-| Day 24: More Linked Lists | *Readme* | *C++* |
-| Day 25: Running Time and Complexity | *Readme* | *C++* |
-| Day 26: Nested Logic | *Readme* | *C++* |
-| Day 27: Testing | *Readme* | *C++* |
-| Day 28: RegEx, Patterns, and Intro to Database | *Readme* | *C++* |
-| Day 29: Bitwise AND | *Readme* | *C++* |
+|     | Problem Name | Readme | Solution |
+|:---:|:------------:|:------:|:--------:|
+| Day 0 | Hello, World. | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-hello-world/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.java) |
+| Day 1 | Data Types | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-data-types/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.java) |
+| Day 2 | Operators | *Readme* | *C++* |
+| Day 3 | Intro to Conditional Statements | *Readme* | *C++* |
+| Day 4 | Class vs. Instance | *Readme* | *C++* |
+| Day 5 | Loops | *Readme* | *C++* |
+| Day 6 | Let's Review | *Readme* | *C++* |
+| Day 7 | Arrays | *Readme* | *C++* |
+| Day 8 | Dictionaries and Maps | *Readme* | *C++* |
+| Day 9 | Recursion | *Readme* | *C++* |
+| Day 10 | Binary Numbers | *Readme* | *C++* |
+| Day 11 | 2D Arrays | *Readme* | *C++* |
+| Day 12 | Inheritance | *Readme* | *C++* |
+| Day 13 | Abstract Classes | *Readme* | *C++* |
+| Day 14 | Scope | *Readme* | *C++* |
+| Day 15 | Linked List | *Readme* | *C++* |
+| Day 16 | Exceptions - String to Integer | *Readme* | *C++* |
+| Day 17 | More Exceptions | *Readme* | *C++* |
+| Day 18 | Queues and Stacks | *Readme* | *C++* |
+| Day 19 | Interfaces | *Readme* | *C++* |
+| Day 20 | Sorting | *Readme* | *C++* |
+| Day 21 | Generics | *Readme* | *C++* |
+| Day 22 | Binary Search Trees | *Readme* | *C++* |
+| Day 23 | BST Level-Order Traversal | *Readme* | *C++* |
+| Day 24 | More Linked Lists | *Readme* | *C++* |
+| Day 25 | Running Time and Complexity | *Readme* | *C++* |
+| Day 26 | Nested Logic | *Readme* | *C++* |
+| Day 27 | Testing | *Readme* | *C++* |
+| Day 28 | RegEx, Patterns, and Intro to Database | *Readme* | *C++* |
+| Day 29 | Bitwise AND | *Readme* | *C++* |
