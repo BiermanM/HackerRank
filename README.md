@@ -82,3 +82,9 @@
 | Day 27 | Testing | *Readme* | *C++* |
 | Day 28 | RegEx, Patterns, and Intro to Database | *Readme* | *C++* |
 | Day 29 | Bitwise AND | *Readme* | *C++* |
+
+### 10 Days of Statistics
+|     | Problem Name | Readme | Solution |
+|:---:|:------------:|:------:|:--------:|
+| Day 0 | Mean, Median, and Mode | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/s10-basic-statistics/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Mean%2C%20Median%2C%20and%20Mode.cpp) |
+|  | Weighted Mean | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/s10-weighted-mean/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200:%20Weighted%20Mean.cpp) |
