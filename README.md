@@ -54,7 +54,7 @@
 |:---:|:------------:|:------:|:--------:|
 | Day 0 | Hello, World. | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-hello-world/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%200:%20Hello%2C%20World.java) |
 | Day 1 | Data Types | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-data-types/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%201:%20Data%20Types.java) |
-| Day 2 | Operators | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%202:%20Operators.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%202:%20Operators.java) |
+| Day 2 | Operators | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-operators/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%202:%20Operators.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%202:%20Operators.java) |
 
 ### 10 Days of Statistics
 |     | Problem Name | Readme | Solution |
