@@ -68,3 +68,5 @@
 | Day 1 | Quartiles | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/s10-quartiles/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Quartiles.cpp) |
 |  | Interquartile Range | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/s10-interquartile-range/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Interquartile%20Range.cpp) |
 |  | Standard Deviation | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/s10-standard-deviation/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%201:%20Standard%20Deviation.cpp) |
+| Day 2 | _All Multiple Choice Questions_ |  |  |
+| Day 3 | _All Multiple Choice Questions_ |  |  |
