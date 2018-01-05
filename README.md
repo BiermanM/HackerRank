@@ -59,6 +59,7 @@
 | Day 4 | Class vs. Instance | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-class-vs-instance/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%204:%20Class%20vs.%20Instance.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%204:%20Class%20vs.%20Instance.java) |
 | Day 5 | Loops | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-loops/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%205:%20Loops.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%205:%20Loops.java) |
 | Day 6 | Let's Review | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-review-loop/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%206:%20Let's%20Review.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%206:%20Let's%20Review.java) |
+| Day 7 | Arrays | [Readme](https://www.hackerrank.com/rest/contests/master/challenges/30-arrays/download_pdf?language=English) | [C++](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%207:%20Arrays.cpp), [Java](https://github.com/BiermanM/HackerRank/blob/master/30%20Days%20of%20Code/Day%207:%20Arrays.java) |
 
 ### 10 Days of Statistics
 |     | Problem Name | Readme | Solution |
